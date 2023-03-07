@@ -1,4 +1,4 @@
-const cacheName = 'ilo-nimi-v1';
+const cacheName = 'ilo-nimi-v5';
 const appFiles = [
     '/~dustin/ilo-nimi/',
     '/~dustin/ilo-nimi/index.html',
@@ -8,7 +8,7 @@ const appFiles = [
     '/~dustin/ilo-nimi/icon144.png',
     '/~dustin/ilo-nimi/icon192.png',
     '/~dustin/ilo-nimi/icon512.png',
-    '/~dustin/ilo-nimi/linja-pona-4.9.otf'
+    '/~dustin/ilo-nimi/sitelen-pona-pona.otf'
 ];
 
 self.addEventListener('install', (e) => {
