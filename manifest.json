@@ -24,8 +24,8 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/~dustin/ilo-nimi/",
-  "scope": "/~dustin/ilo-nimi/",
+  "start_url": "/ilo-nimi/",
+  "scope": "/ilo-nimi/",
   "display": "standalone",
   "theme_color": "#1c1c1c",
   "background_color": "#1c1c1c"
